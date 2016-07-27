@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_f5e295d1d5e39fcded10a5c06bc5b1f810b5f21b/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.1_59a182a0c9fb2aff29f7f843da0d3bf853964495/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_3ca122eb7978b575f99c2f79e0398db1bef76251/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_270dd06f59cf8d0340b8e5e9a1a9e4166945a9f7/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_e0f3960db3c67108b71de0851fbc06151f770469/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_34b6a32f565ae5a2cc6ea16bd9e3552661330998/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="46cc07b376fa99333ed2917a1f0e6401ae57c63f">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_356dd8b58989f58be14b1d478a4a3171c16e16ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.1_f85c7f4d4569e4918923ec5efea85dcd97d0a00c/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_767f81ac45875f8532a40ad74fccc3fcea4d9076/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_3f66a75a4009382a9aca5396b0e3f08c4b334c89/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_ed0a02f7a39b1f4723a201e589cb8ef8e5c0b02e/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_08c8e8f4431664befd99e5e764eba9fcbbf3f95a/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_b59629913bbdfa938039dfc5a958a833a76728a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_bf0ed353f772f8bb852267e6f329f17ab76f2935/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="352841c5af723081e7e2f67b9b5f28d864575f10">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a0a63f53228dbfda13eb994343750b873831069/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.1_1c31ef346da556a415dd490ca00126c04da56cfe/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_5a5e81cfbab942fb0a207a1855ebbb78d1493817/classes.dex" />
+    </item>
+    <item
+        jar="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/home/matheusuehara/git/FirebaseLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_f675ac794ccd48a19c89a666853349c6cab1f702/classes.dex" />
+    </item>
+
+</items>
